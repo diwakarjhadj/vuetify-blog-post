@@ -44,7 +44,7 @@ This project is a blog application built using Vue and Vuetify. The purpose of t
    ```
 4. Start the development server:
    ```bash
-   npm run serve
+   npm run dev
    ```
 
 ## Technologies Used
@@ -77,22 +77,3 @@ To deploy the application:
    npm run build
    ```
 2. Deploy the generated `dist` folder to any static hosting platform (e.g., Netlify, Vercel).
-
-## Submission Instructions
-- Make the repository public on GitHub.
-- Send the repository link to **[hello@vuetifyjs.com](mailto:hello@vuetifyjs.com)**.
-- Use the subject line: `Vuetify Developer Code Challenge`.
-
-## FAQ
-- **Can I add authentication?** Yes.
-- **Can I add a database?** Yes.
-- **Can I use additional plugins?** Yes, but minimal usage is preferred.
-- **Can I use vanilla Vuetify styling?** Yes.
-- **Can I copy a design I found online?** Yes, this is encouraged.
-
-## Deadline
-Submit your application by **Sunday, March 9th**.
-
-## Final Thoughts
-This challenge is a great opportunity to showcase your Vue and Vuetify expertise while adhering to specific project requirements. Good luck!
-
